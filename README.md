@@ -11,7 +11,7 @@ A modern, visually stunning Snake Game built with **HTML5 Canvas**, **CSS3**, an
 
 ## 🎮 Live Demo
 
-> 🔗 **[Play Now on GitHub Pages](https://your-username.github.io/snake-game/)**
+> 🔗 **[Play Now on GitHub Pages](https://prince12307519.github.io/snake-game/)**
 
 ---
 
@@ -48,7 +48,7 @@ A modern, visually stunning Snake Game built with **HTML5 Canvas**, **CSS3**, an
 ### Option 2: Local Server
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/Prince12307519/snake-game.git
 cd snake-game
 
 # Serve with any static server
@@ -113,5 +113,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built with 💚 by <strong>Your Name</strong>
+  Built with 💚 by <strong>Prince Singh</strong>
 </p>
